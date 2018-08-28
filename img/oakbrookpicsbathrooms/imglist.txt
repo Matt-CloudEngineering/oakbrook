@@ -1,0 +1,9 @@
+total 11560
+drwx------@  8 matt  _www      272 Oct 13 21:01 .
+drwxrwxr-x  37 matt  _www     1258 Oct 13 20:59 ..
+-rwxr-xr-x@  1 matt  _www  2443162 Oct 13 20:57 IMG_0364.JPG
+-rwxr-xr-x@  1 matt  _www  2693723 Oct 13 20:57 IMG_0370.JPG
+-rwxr-xr-x@  1 matt  _www    52442 Oct 13 20:57 IMG_0625..jpg
+-rwxr-xr-x@  1 matt  _www   372219 Oct 13 20:57 IMG_0784.jpg
+-rwxr-xr-x@  1 matt  _www   348353 Oct 13 20:57 IMG_0785.jpg
+-rw-r--r--   1 matt  _www        0 Oct 13 21:01 imglist.txt
